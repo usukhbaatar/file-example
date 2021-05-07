@@ -1,0 +1,4 @@
+3
+good 2
+bad 2
+other 1
